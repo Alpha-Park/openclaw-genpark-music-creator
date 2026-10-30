@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-music-creator",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Music Creator - Harmonic overtone series synthesizer, MIDI note frequency & equal temperament scaler, and Markov chain chord progression composer with zero dependencies.",
+  "tools": [
+    "synthesize_harmonic_overtones",
+    "convert_midi_and_pitch_scale",
+    "generate_markov_chord_progression"
+  ]
+}
